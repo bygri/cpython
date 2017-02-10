@@ -1,5 +1,4 @@
 module CPython [system] {
     header "/usr/include/python3.5/Python.h"
-    link "python"
     export *
 }
